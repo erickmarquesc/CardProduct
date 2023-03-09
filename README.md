@@ -1,5 +1,3 @@
-# CardProduct
-Fiz uma simples aplicação com base do projeto BoraCodar da Rocketseat
 <h1 align="center"> Product Card </h1>
 
 <p align="center">
